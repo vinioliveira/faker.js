@@ -2,9 +2,9 @@
 
 ![Faker.js](http://imgur.com/KiinQ.png)
 
-[![Build Status](https://travis-ci.org/Marak/faker.js.svg?branch=master)](https://travis-ci.org/Marak/Faker.js)
-
 [![npm version](https://badge.fury.io/js/faker.svg)](http://badge.fury.io/js/faker)
+[![devDependency Status](https://david-dm.org/Marak/faker.js/dev-status.svg)](https://david-dm.org/Marak/faker.js#info=devDependencies)
+[![Build Status](https://travis-ci.org/Marak/faker.js.svg?branch=master)](https://travis-ci.org/Marak/Faker.js)
 
 ## Demo
 
