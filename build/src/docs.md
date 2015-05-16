@@ -23,7 +23,7 @@
 
 ### Node.js
 
-    var faker = require('./faker');
+    var faker = require('faker');
 
     var randomName = faker.name.findName(); // Rowan Nikolaus
     var randomEmail = faker.internet.email(); // Kassandra.Haley@erich.biz
