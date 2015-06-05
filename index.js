@@ -29,6 +29,8 @@ exports.date = require('./lib/date');
 exports.random = require('./lib/random');
 exports.finance = require('./lib/finance');
 exports.hacker = require('./lib/hacker');
+exports.cnpj = require('./lib/cnpj');
+exports.cpf = require('./lib/cpf');
 
 var locales = exports.locales = require('./lib/locales');
 
